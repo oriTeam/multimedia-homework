@@ -11,5 +11,5 @@ Bài 3:
     Tất cả cách ảnh đầu ra được lưu trữ tại thư mục result, bao gồm:
       + Ảnh theo từng channel A,R,G,B
       + Ảnh đen trắng 
-      + Ảnh sau khi merge 4 channel trên => ảnh g
+      + Ảnh sau khi merge 4 channel trên
   
