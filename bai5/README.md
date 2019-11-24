@@ -17,6 +17,26 @@ Hãy viết các chương trình sinh ra các ảnh sau:
 
 ### Requirements
 
-### Instructions
+- Python >= 3.6
 
 ## Usage
+
+Run:
+
+```bash
+multimedia-homework/bai5 $ python main.py
+```
+
+Result:
+
+1. Chess board
+![](https://github.com/vantrong291/multimedia-homework/tree/master/bai5/output/chess_board.jpg)
+
+2. Horizontal rainbow
+![](https://github.com/vantrong291/multimedia-homework/tree/master/bai5/output/rainbow_horizontal.jpg)
+
+3. Vertical rainbow
+![](https://github.com/vantrong291/multimedia-homework/tree/master/bai5/output/rainbow_vertical.jpg)
+
+4. Diagonal rainbow
+![](https://github.com/vantrong291/multimedia-homework/tree/master/bai5/output/rainbow_diagonal.jpg)
