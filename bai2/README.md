@@ -33,3 +33,6 @@ Yêu cầu: Cần viết 02 chương trình: Generator và Player. Chạy chươ
 5. Play tất cả 13 file:
 
     ```python3 player.py -a```
+    
+    
+@vantrong291 - 24.11.2019
