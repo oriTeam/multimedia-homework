@@ -34,5 +34,3 @@ Yêu cầu: Cần viết 02 chương trình: Generator và Player. Chạy chươ
 
     ```python3 player.py -a```
     
-    
-@vantrong291 - 24.11.2019

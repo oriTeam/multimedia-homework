@@ -1,4 +1,5 @@
-##Bài tập môn Truyền thông đa phương tiện
+##Bài tập môn Truyền thông đa phương tiện - Nhóm 01
+
 #####Thành viên:
 1. Lương Quang Mạnh, 16021044 - Bài 5
 2. Ngô Đức Nghĩa, 16021071
