@@ -17,10 +17,7 @@ def gen_chess_board():
 
 
 def gen_rainbow(direction="horizontal"):
-    if direction == "diagonal":
-        size = 180  # 360 / 2
-    else:
-        size = 360
+    size = 360
     img = Image.new("RGB", (size, size))
     data = img.load()
 
@@ -33,9 +30,12 @@ def gen_rainbow(direction="horizontal"):
             for x in range(0, 360):
                 data[x, hue] = color
         else:  # diagonal
-            for n in range(0, hue):
+            for n in range(0, 2 * hue, 2):
                 try:
-                    data[n, hue - n] = color
+                    data[n, 2 * hue - 2 - n] = color
+                    data[n + 1, 2 * hue - 2 - n] = color
+                    data[n, 2 * hue - 2 - n - 1] = color
+                    data[n + 1, 2 * hue - 2 - n - 1] = color
                 except IndexError:
                     pass
 
