@@ -1,5 +1,5 @@
-##Bài tập 2 môn Truyền thông đa phương tiện
-#####Thành viên phụ trách: Phạm Văn Trọng - MSV 16021198
+## Bài tập 2 môn Truyền thông đa phương tiện
+##### Thành viên phụ trách: Phạm Văn Trọng - MSV 16021198
 
 **Đề bài:** 
 Hãy sinh ra các file wave (âm thanh) tương ứng với các nốt nhạc trong một quãng tám (octave)
