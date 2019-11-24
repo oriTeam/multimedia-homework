@@ -17,7 +17,7 @@ Hãy viết các chương trình sinh ra các ảnh sau:
 
 ### Requirements
 
-- Python >= 3.6
+- Python >= 3.6 (Python 2 and Python <= 3.5 won't work)
 
 ## Usage
 
