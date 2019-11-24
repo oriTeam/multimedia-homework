@@ -2,7 +2,7 @@
 
 ##### Thành viên:
 1. Lương Quang Mạnh, 16021044 - Bài 5
-2. Ngô Đức Nghĩa, 16021071
+2. Ngô Đức Nghĩa, 16021071 - Bài 1
 3. Tạ Danh Huy
 4. Phạm Việt Hoàng, 16020975
 5. Hoàng Anh Tuấn, 16021210 - Bài 3
